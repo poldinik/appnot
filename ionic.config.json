@@ -1,0 +1,8 @@
+{
+  "name": "appnot",
+  "app_id": "7d05b976",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
